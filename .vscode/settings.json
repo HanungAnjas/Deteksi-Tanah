@@ -1,0 +1,6 @@
+{
+    "dart.flutterHotReloadOnSave": "allIfDirty",
+    "dart.hotReloadOnSave": "allIfDirty",
+    "files.autoSave": "off",
+    "files.autoSaveDelay": 1000
+}
